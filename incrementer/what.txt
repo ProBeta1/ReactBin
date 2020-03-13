@@ -1,0 +1,1 @@
+simplest on click change usage in react
